@@ -1,0 +1,1 @@
+I used ASP.NET Core Minimal API because it allows me to create HTTP endpoints with simple, readable code. I stored three sample campus resources in memory so the API can return JSON without requiring a database. I return 400 Bad Request for an invalid ID and 404 Not Found when a valid ID does not match an existing resource.
